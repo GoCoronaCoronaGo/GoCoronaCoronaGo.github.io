@@ -1,0 +1,25 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+
+.field-set{
+    border-style: solid;
+}
+.required{
+    color: red;
+}
+.specGuess{
+    width: 21.5%;
+}
+
+.description{
+    width: 65%;
+}
+
+.license{
+    width: 68%;
+}
+
+.form{
+    font-family: sans-serif;
+}
